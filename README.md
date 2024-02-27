@@ -1,0 +1,1 @@
+# sqlc-gen-ts-duckdb-spec
